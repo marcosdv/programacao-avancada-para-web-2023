@@ -6,7 +6,8 @@
 
 ### Conteúdo
 
-- [ ] Aula 01 - Introdução ao C# .NET - Criando a primeira API Rest - 02/08/2023
+- [x] Aula 01 - Introdução ao C# .NET - Criando a primeira API Rest - 02/08/2023
+- [ ] Aula 02 - Aula - 09/08/2023
 
 ### Tecnologias
 
