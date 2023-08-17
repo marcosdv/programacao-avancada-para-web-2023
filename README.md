@@ -8,7 +8,7 @@
 
 - [x] Aula 01 - Introdução ao C# .NET - Criando a primeira API Rest - 02/08/2023
 - [x] Aula 02 - Agenda Telefonica API - CRUD da TbOperadora - ADO.NET com SQL Server - 09/08/2023
-- [ ] Aula 03 - Agenda Telefonica API - CRUD da TbPessoa - ADO.NET com Dapper e SQL Server - 16/08/2023
+- [x] Aula 03 - Agenda Telefonica API - CRUD da TbPessoa e Telefone - ADO.NET com Dapper e SQL Server - 16/08/2023
 - [ ] Aula 04 - Agenda Telefonica API - CRUD do Telefone, INNER JOIN e LEFT JOIN - ADO.NET, Dapper e SQL Server - 23/08/2023
 - [ ] Aula 05 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server - 29/08/2023
 
