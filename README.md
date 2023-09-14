@@ -11,7 +11,9 @@
 - [x] Aula 03 - Agenda Telefonica API - CRUD da TbPessoa e Telefone - ADO.NET com Dapper e SQL Server - 16/08/2023
 - [x] Aula 04 - Agenda Telefonica API - Injeção de Dependências - 23/08/2023
 - [x] Aula 05 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server - 06/09/2023
-- [ ] Aula 06 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server - 13/09/2023
+- [x] Aula 06 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server - 13/09/2023
+- [ ] Aula 07 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server - 27/09/2023
+- [ ] Aula 08 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server - 04/10/2023
 
 ### Tecnologias
 
